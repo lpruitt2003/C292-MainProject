@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c0c5b0df7a7cd3a47840733420248a51
+guid: 13e403c993769e649b4534e32e7387c3
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -23,7 +23,7 @@ ScriptedImporter:
     normalMapFilter: 0
     flipGreenChannel: 0
     swizzle: 50462976
-    isReadable: 0
+    isReadable: 1
     streamingMipmaps: 0
     streamingMipmapsPriority: 0
     vTOnly: 0
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638671110798257531
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 311
       width: 72
       height: 88
-    spriteID: d522df8aca7747f49a7646fe71f2c2bb
+    spriteID: 010e02705dc0cf54788a485864a162a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 407
       width: 72
       height: 88
-    spriteID: 42610010f4c39b74d98535444b0aa85a
+    spriteID: 41d43df2e2c17c1449b3fc0ffa1f501f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: edf9748ef1633644b85e8413d1b02309
+    spriteID: 74698a7766309a742af71cfa374f716d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: 967a26b83edd0b141b03996b354e6321
+    spriteID: 4de37afce2ce0e4408f977176891b116
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: c31fc47cf40f53f45b18cb0f6d29f504
+    spriteID: 978462b6990f8e64eaab2f0db057330e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: 587779fbfb52839488e635faf6153525
+    spriteID: 8ee3a9bc7be9e344d8c8562b351d54f7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 213
       width: 72
       height: 90
-    spriteID: eb3b686adad49484daf309664e1c1c25
+    spriteID: 92af112b81b429e4a959e80fa54c6e87
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 94
-    spriteID: 37bd76c200fa8c7479005e747fb80df0
+    spriteID: 5ff08e33f3f5af244aea6aba2e6b1569
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 203
       width: 49
       height: 89
-    spriteID: eb387596e23545448aab1229fccea19e
+    spriteID: c4d0377efa1ff2e4ca088045ff89754e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 100
       width: 58
       height: 95
-    spriteID: 5fa7a41d8ca1114479bab164ed2709b4
+    spriteID: ea42bb5cf02d1ae44a47b8a883aa8de4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 106
       width: 66
       height: 99
-    spriteID: 04a35c653e70f8447aeaf1028ebde0f6
+    spriteID: e754ea32adf99d847996d31960a97408
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 388
       width: 66
       height: 96
-    spriteID: 336be3d3bb9c28145823931d09957ea3
+    spriteID: c19b281fbfdcd7d40b24d963fdd25269
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 66
       height: 88
-    spriteID: b3b3296b244aab94b8aa2c01cac5ff92
+    spriteID: a423f84ca5b347f498e81586f09d81a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 300
       width: 44
       height: 65
-    spriteID: 474bbdf9dc4749a4e9612bfa5bef9f61
+    spriteID: a1eea6b540a456c4bbca16655e9e4fc4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -418,7 +418,7 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: d522df8aca7747f49a7646fe71f2c2bb
+      spriteId: 010e02705dc0cf54788a485864a162a5
     - name: Kla'ed - Battlecruiser - Destruction_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -427,7 +427,7 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 42610010f4c39b74d98535444b0aa85a
+      spriteId: 41d43df2e2c17c1449b3fc0ffa1f501f
     - name: Kla'ed - Battlecruiser - Destruction_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -436,7 +436,7 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: edf9748ef1633644b85e8413d1b02309
+      spriteId: 74698a7766309a742af71cfa374f716d
     - name: Kla'ed - Battlecruiser - Destruction_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -445,7 +445,7 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 967a26b83edd0b141b03996b354e6321
+      spriteId: 4de37afce2ce0e4408f977176891b116
     - name: Kla'ed - Battlecruiser - Destruction_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -454,7 +454,7 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: c31fc47cf40f53f45b18cb0f6d29f504
+      spriteId: 978462b6990f8e64eaab2f0db057330e
     - name: Kla'ed - Battlecruiser - Destruction_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -463,7 +463,7 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 587779fbfb52839488e635faf6153525
+      spriteId: 8ee3a9bc7be9e344d8c8562b351d54f7
     - name: Kla'ed - Battlecruiser - Destruction_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
@@ -472,7 +472,7 @@ ScriptedImporter:
         y: 25
         width: 72
         height: 90
-      spriteId: eb3b686adad49484daf309664e1c1c25
+      spriteId: 92af112b81b429e4a959e80fa54c6e87
     - name: Kla'ed - Battlecruiser - Destruction_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
@@ -481,7 +481,7 @@ ScriptedImporter:
         y: 21
         width: 72
         height: 94
-      spriteId: 37bd76c200fa8c7479005e747fb80df0
+      spriteId: 5ff08e33f3f5af244aea6aba2e6b1569
     - name: Kla'ed - Battlecruiser - Destruction_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
@@ -490,7 +490,7 @@ ScriptedImporter:
         y: 18
         width: 49
         height: 89
-      spriteId: eb387596e23545448aab1229fccea19e
+      spriteId: c4d0377efa1ff2e4ca088045ff89754e
     - name: Kla'ed - Battlecruiser - Destruction_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
@@ -499,7 +499,7 @@ ScriptedImporter:
         y: 16
         width: 58
         height: 95
-      spriteId: 5fa7a41d8ca1114479bab164ed2709b4
+      spriteId: ea42bb5cf02d1ae44a47b8a883aa8de4
     - name: Kla'ed - Battlecruiser - Destruction_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
@@ -508,7 +508,7 @@ ScriptedImporter:
         y: 12
         width: 66
         height: 99
-      spriteId: 04a35c653e70f8447aeaf1028ebde0f6
+      spriteId: e754ea32adf99d847996d31960a97408
     - name: Kla'ed - Battlecruiser - Destruction_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
@@ -517,7 +517,7 @@ ScriptedImporter:
         y: 11
         width: 66
         height: 96
-      spriteId: 336be3d3bb9c28145823931d09957ea3
+      spriteId: c19b281fbfdcd7d40b24d963fdd25269
     - name: Kla'ed - Battlecruiser - Destruction_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
@@ -526,7 +526,7 @@ ScriptedImporter:
         y: 13
         width: 66
         height: 88
-      spriteId: b3b3296b244aab94b8aa2c01cac5ff92
+      spriteId: a423f84ca5b347f498e81586f09d81a7
     - name: Kla'ed - Battlecruiser - Destruction_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
@@ -535,10 +535,34 @@ ScriptedImporter:
         y: 14
         width: 44
         height: 65
-      spriteId: 474bbdf9dc4749a4e9612bfa5bef9f61
+      spriteId: a1eea6b540a456c4bbca16655e9e4fc4
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
