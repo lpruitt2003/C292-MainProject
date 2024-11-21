@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -10,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public AudioClip explosionSound;
     public float cameraStopXPosition = 97.14f;  // The x position at which the camera disconnects
     public GameObject endGamePanel;             // Reference to the end game UI panel
-
+    public TextMeshProUGUI PanelText;
 
     private Rigidbody2D rb;
     private Camera mainCamera;
@@ -36,6 +37,7 @@ public class PlayerController : MonoBehaviour
         {
             // Move the player in a straight line off-screen
             rb.velocity = new Vector2(speed, 0);
+            PanelText.text = "Level Completed";
             endGamePanel.SetActive(true);
         }
         else
@@ -69,6 +71,7 @@ public class PlayerController : MonoBehaviour
             // Destroy the player's GameObject
             Destroy(gameObject);
 
+            PanelText.text = "Game Over";
             endGamePanel.SetActive(true);
         }
     }
